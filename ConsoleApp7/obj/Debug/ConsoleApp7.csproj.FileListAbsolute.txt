@@ -1,0 +1,8 @@
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\alvvb\source\repos\visual studio 2023\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
